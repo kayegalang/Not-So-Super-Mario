@@ -1,0 +1,110 @@
+wxmkm
+xggcm
+mkcxc
+bkmkc
+gkggc
+==========
+kmbcm
+kkxmg
+ccxgx
+ggmcc
+kxmkg
+==========
+Mario is starting in position: (0, 3)
+==========
+wxmHm
+xggcm
+mkcxc
+bkmkc
+gkggc
+==========
+Level: 0. Mario is at position: (0, 3). Mario is at power level 0. Mario encountered a koopa and won. Mario has 3 lives left. Mario has 0 coins. Mario will move right. 
+==========
+wxmxH
+xggcm
+mkcxc
+bkmkc
+gkggc
+==========
+Level: 0. Mario is at position: (0, 4). Mario is at power level 0. Mario found a mushroom. Mario has 3 lives left. Mario has 0 coins. Mario will move right. 
+==========
+Hxmxx
+xggcm
+mkcxc
+bkmkc
+gkggc
+==========
+Level: 0. Mario is at position: (0, 0). Mario is at power level 1. Mario found a warp pipe. Mario has 3 lives left. Mario has 0 coins. Mario will WARP. 
+==========
+kmbcm
+kkxmg
+ccHgx
+ggmcc
+kxmkg
+==========
+Level: 1. Mario is at position: (2, 2). Mario is at power level 1. The position is empty. Mario has 3 lives left. Mario has 0 coins. Mario will move left. 
+==========
+kmbcm
+kkxmg
+cHxgx
+ggmcc
+kxmkg
+==========
+Level: 1. Mario is at position: (2, 1). Mario is at power level 1. Mario found a coin. Mario has 3 lives left. Mario has 1 coin. Mario will move up. 
+==========
+kmbcm
+kHxmg
+cxxgx
+ggmcc
+kxmkg
+==========
+Level: 1. Mario is at position: (1, 1). Mario is at power level 1. Mario encountered a koopa and won. Mario has 3 lives left. Mario has 1 coin. Mario will move left. 
+==========
+kmbcm
+Hxxmg
+cxxgx
+ggmcc
+kxmkg
+==========
+Level: 1. Mario is at position: (1, 0). Mario is at power level 1. Mario encountered a koopa and lost. Mario has 3 lives left. Mario has 1 coin. Mario will move left. 
+==========
+kmbcm
+kxxmH
+cxxgx
+ggmcc
+kxmkg
+==========
+Level: 1. Mario is at position: (1, 4). Mario is at power level 0. Mario encountered a goomba and lost. Mario lost a life. Mario respawned. Mario encountered a goomba and lost. Mario lost a life. Mario respawned. Mario encountered a goomba and won. Mario has 1 life left. Mario has 1 coin. Mario will move down. 
+==========
+kmbcm
+kxxmg
+cxxgH
+ggmcc
+kxmkg
+==========
+Level: 1. Mario is at position: (2, 4). Mario is at power level 0. The position is empty. Mario has 1 life left. Mario has 1 coin. Mario will move right. 
+==========
+kmbcm
+kxxmg
+Hxxgx
+ggmcc
+kxmkg
+==========
+Level: 1. Mario is at position: (2, 0). Mario is at power level 0. Mario found a coin. Mario has 1 life left. Mario has 2 coins. Mario will move down. 
+==========
+kmbcm
+kxxmg
+xxxgx
+Hgmcc
+kxmkg
+==========
+Level: 1. Mario is at position: (3, 0). Mario is at power level 0. Mario encountered a goomba and won. Mario has 1 life left. Mario has 2 coins. Mario will move right. 
+==========
+kmbcm
+kxxmg
+xxxgx
+xHmcc
+kxmkg
+==========
+Level: 1. Mario is at position: (3, 1). Mario is at power level 0. Mario encountered a goomba and lost. Mario lost a life. Mario encountered a goomba and won. Mario has 0 lives left. Mario has 2 coins. Mario lost all his lives. 
+WE LOST THE GAME! :(
